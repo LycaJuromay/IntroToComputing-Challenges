@@ -1,5 +1,0 @@
-git init
-git add -A
-git commit -m 'Challenge #1: Goal'
-git remote add origin git@github.com:LycaJuromay/IntroToComputing-Challenges.git
-git push -u origin main
